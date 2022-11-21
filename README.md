@@ -7,7 +7,7 @@ Repository with Unity project examples for 2D Game Design
 </picture>
 ## What is MMC-165?
 MMC-165 is a course offered through Commmunity College of Allegheny County in Pittsburgh Pennsylvania. The focus of the course is to utilize Unity's 2D capabilities to create basic games. The primary learning objectives of this course include:
-| Rank | THING-TO-RANK |
+|  | Learning Objectives |
 |-----:|---------------|
 |     1| Analyze 2D game genres from the industry. |
 |     2| Develop game elements using the game production pipeline. |
